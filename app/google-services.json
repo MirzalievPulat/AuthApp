@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611019446853",
+    "project_id": "authentication-180ca",
+    "storage_bucket": "authentication-180ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611019446853:android:49bbc170dbbcc5ab71612c",
+        "android_client_info": {
+          "package_name": "uz.frodo.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611019446853-ko2v02ru26k6uo2v71bp9sktb54k28oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.frodo.authapp",
+            "certificate_hash": "d11ea97414326da23d0b7595f9d79200b0bb0587"
+          }
+        },
+        {
+          "client_id": "611019446853-jbls1ue1to8umrm037ktd06utkrj3lk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHjW3T3ssr54Gx6HV7rg6q0ifikUDors4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611019446853-jbls1ue1to8umrm037ktd06utkrj3lk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
